@@ -1,0 +1,25 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!--row_city_list.xml-->
+
+    <dimen name="padding">16dp</dimen>
+    <!--row_city_list.xml!!-->
+    <dimen name="list_item_height">80dp</dimen>
+
+    <!--This two attributes connected with tvMagnitude layout_height and layout_width in row_city_list.xml!!-->
+    <dimen name="tvMagnidute_layout_width">56dp</dimen>
+    <dimen name="tvMagnidute_layout_height">75dp</dimen>
+
+    <!--It has been used for tvLocationOffset & tvPrimaryLocation.-->
+    <dimen name="padding_Left">12dp</dimen>
+
+    <!--used for tvTime-->
+    <dimen name="Padding_tvTime">6dp</dimen>
+
+    <!--magnitude_circle.xml-->
+    <dimen name="magnitudeSize_width">36dp</dimen>
+    <dimen name="magnitudeCorners_radius">18dp</dimen>
+</resources>
